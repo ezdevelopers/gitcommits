@@ -1,0 +1,1 @@
+# This is just a fun project practising how to make commit messages :smile:
